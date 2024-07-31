@@ -29,4 +29,4 @@ Tools and Techniques
 - Excel: Compiled reservoir parameters and well data.
 - Interactive Dashboards: Created for a comprehensive view of the Volve field data.
 - Prophet Model: Applied for time series analysis and forecasting.
-- Cost Estimation Calculations: Conducted to evaluate the economic aspects of the Volve field operations.
+- Cost Estimation Calculations: Conducted to evaluate the economic aspects of the Volve field operations. (The actual work cannot be shared due to licensing restrictions)
